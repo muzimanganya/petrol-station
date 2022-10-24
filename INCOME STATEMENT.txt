@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:0.5px solid black;
+}
+</style>
+<body>
+
+<h2>Ordinary Income/Expense</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Income/Revenue</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Income $ Super</td>
+    <td>17,875.92</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Income Fc Super in $</td>
+    <td>17,875.92</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Income $ Gasoil</td>
+    <td>4,468.10</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Income Fc Gasoil in $</td>
+    <td>1,940.50<br><hr style="height:2px; width:100%; border-width:0; color:black; background-color:black"></td>
+  </tr>
+   <tr>
+    <th>Total Income</th>
+    <th></th>
+    <td><b>41,628.04</b><hr style="height:2px; width:100%; border-width:1; color:black; background-color:black"></td>
+  </tr>
+   <tr>
+    <th>Cost of Income</th>
+    <th></th>
+    <td>26,905.70</b><hr style="height:2px; width:100%; border-width:1; color:black; background-color:black"></td>
+  </tr>
+  <tr>
+    <th>Gross Profit</th>
+    <th></th>
+    <td><b>14,722.34</b><hr style="height:2px; width:100%; border-width:1; color:black; background-color:black"></td>
+  </tr>
+  <tr>
+    <th>Expenses</th>
+    <th></th>
+    <td></td>
+  </tr>
+</table>
+
+<p>To understand the example better, we have added borders to the table.</p>
+
+</body>
+</html>
+
